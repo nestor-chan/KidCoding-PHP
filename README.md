@@ -14,6 +14,9 @@ The main gola of this tutorial is to create simple self-learning classes for him
 * AddCalculator - a calculator just to do add 
 * SimpleCalculator - a simple calculator allow user to do add/subtract/multiply/divice 
 * SmartSimpleCalculator - based on SimpleCalculator,  add error checking to make sure input are integers, and return error code 
+* RandomDice - a simple dice programing with 1 - 6 dices, displayed the number in random color 
+* SuperDice - a dice system with simple ASCII art, using if/case conditions to display the color depends on number
+
 * RandomEmoji - display an enlarged sized random emoji on screen 
 * EmojiSearcher - search emoji by string, non-casesensitive, return list of emoji on screen
 * EmojiSerialSearcher - input a list of string, and search emoji from list or display a random emojoy. its random fun! 

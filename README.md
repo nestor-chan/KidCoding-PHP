@@ -7,4 +7,19 @@ Its not easy to find a coding material for kids already has programing concept b
 # GOAL
 The main gola of this tutorial is to create simple self-learning classes for him. Small games and stuffs like simple calculator, simple ChatBot, etc. Hopefully he can learn by himself... and may need a little guidiance from experienced adult, but still make it fun and interesting while using actual programing language. Using PHP provide simple syntax, flexible but yet powerful and has great protential for system script and web developing. And having the code deployed on a simple LAMB would let kids able to show his work any where to any one. 
 
+# Codes idea
+* Hello World - first program to display kid's name with random color, and play with HEX color code
+* What time is it - Just a simple page to display time 
+* What color time is it - Build on last exercise, using random to generate a HEX code to display
+* AddCalculator - a calculator just to do add 
+* SimpleCalculator - a simple calculator allow user to do add/subtract/multiply/divice 
+* SmartSimpleCalculator - based on SimpleCalculator,  add error checking to make sure input are integers, and return error code 
+* RandomEmoji - display an enlarged sized random emoji on screen 
+* EmojiSearcher - search emoji by string, non-casesensitive, return list of emoji on screen
+* EmojiSerialSearcher - input a list of string, and search emoji from list or display a random emojoy. its random fun! 
+
+* SillyChatbot - With an list of question, ask the kids, and reorganize the answer and display
+* DynFrontPage - Create a php landing page that generate link based on existing code in the directory
+
+* TicTacToe - Playing with random and display
 

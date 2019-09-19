@@ -22,4 +22,4 @@ The main gola of this tutorial is to create simple self-learning classes for him
 * DynFrontPage - Create a php landing page that generate link based on existing code in the directory
 
 * TicTacToe - Playing with random and display
-
+* Embaded ads - Putting ads in to all php codes. 
